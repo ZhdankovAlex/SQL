@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql", "Sql\Sql.csproj", "{6E305C95-7A68-4EF4-8C9A-F1D33494CF78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36944843-450D-49E8-8C64-403DC3F7A322}"
+	ProjectSection(SolutionItems) = preProject
+		input.txt = input.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E305C95-7A68-4EF4-8C9A-F1D33494CF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E305C95-7A68-4EF4-8C9A-F1D33494CF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E305C95-7A68-4EF4-8C9A-F1D33494CF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E305C95-7A68-4EF4-8C9A-F1D33494CF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

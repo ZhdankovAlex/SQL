@@ -1,0 +1,6 @@
+c:\users\alexey\documents\visual studio 2015\Projects\Sql\Sql\bin\Debug\Sql.exe.config
+c:\users\alexey\documents\visual studio 2015\Projects\Sql\Sql\bin\Debug\Sql.exe
+c:\users\alexey\documents\visual studio 2015\Projects\Sql\Sql\bin\Debug\Sql.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\Sql\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2015\Projects\Sql\Sql\obj\Debug\Sql.exe
+c:\users\alexey\documents\visual studio 2015\Projects\Sql\Sql\obj\Debug\Sql.pdb
