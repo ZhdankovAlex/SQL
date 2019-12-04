@@ -1,0 +1,18 @@
+1; Lada; Priora
+2; Honda; NSX
+3; UAZ; Patriot
+4; Honda; Prelude
+5; UAZ; Hunter
+6; Lada; Samara
+7; Pontiac; Firebird
+8; Lincoln; Continental
+9; Lincoln; Town Car
+10; Pontiac; GTO
+11; Ford; Probe
+12; Ford; Fiesta
+13; Toyota; Supra
+14; Toyota; Sprinter Trueno
+15; Volkswagen; Golf
+16; Volkswagen; Jetta
+17; Mercedes Benz; W124
+18; Mercedes Benz; G63 6x6 Brabus
